@@ -10,7 +10,6 @@ bin-release/
 *.log
 *.out
 *.synctex.gz
-*.cls
 
 # Other files and folders
 .settings/
