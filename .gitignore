@@ -10,6 +10,7 @@ bin-release/
 *.log
 *.out
 *.synctex.gz
+.DS_Store
 
 # Other files and folders
 .settings/
